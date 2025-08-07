@@ -42,7 +42,6 @@ The data used in this project comes from two sources:
 >>     howpublished = {url{https://github.com/ranaroussi/yfinance}}
 >> }
 
-when 
 
 ### Data Extraction
 
